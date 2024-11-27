@@ -1,0 +1,44 @@
+﻿objectid,unique_code,name,pollutant_metric,maximum_value,unit,compliance_status,compliance_metric,globalid,shape_Length,shape_Area
+1,UK0001,Greater London Urban Area,Nitrogen Dioxide annual mean Limit Value 2023,42,μg m⁻³,Exceeding,Limit Value: 40 μg m⁻³,{F2E76D24-5C2E-49E1-B332-859CBAEA97F0},1924215.80187318,1630315288.99501
+2,UK0002,West Midlands Urban Area,Nitrogen Dioxide annual mean Limit Value 2023,46,μg m⁻³,Exceeding,Limit Value: 40 μg m⁻³,{F651C471-ED82-4662-ACC1-B6E73A9C8D5F},666327.410350489,599662377.697963
+3,UK0003,Greater Manchester Urban Area,Nitrogen Dioxide annual mean Limit Value 2023,55,μg m⁻³,Exceeding,Limit Value: 40 μg m⁻³,{258F3DB0-EEC2-4E9A-9CFF-FCF3571A82FF},1311025.04600873,556466825.658004
+4,UK0004,West Yorkshire Urban Area,Nitrogen Dioxide annual mean Limit Value 2023,41,μg m⁻³,Exceeding,Limit Value: 40 μg m⁻³,{975B51E3-B469-43EF-8AC2-D8CF9D664F1F},1285916.58838284,369966601.580566
+5,UK0005,Tyneside,Nitrogen Dioxide annual mean Limit Value 2023,36,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{EA7F15C6-226B-4A42-A74F-FCE0EDAB651E},608272.376771677,210719249.25174
+6,UK0006,Liverpool Urban Area,Nitrogen Dioxide annual mean Limit Value 2023,43,μg m⁻³,Exceeding,Limit Value: 40 μg m⁻³,{82FAA25C-5596-4B22-9F7B-5502B163A7A6},305256.908820854,186061360.868969
+7,UK0007,Sheffield Urban Area,Nitrogen Dioxide annual mean Limit Value 2023,40,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{A29D7F5B-F6D8-4012-BAAF-D0E1B4A45493},419374.816844874,162190675.84324
+8,UK0008,Nottingham Urban Area,Nitrogen Dioxide annual mean Limit Value 2023,41,μg m⁻³,Exceeding,Limit Value: 40 μg m⁻³,{5FF0504D-C427-4764-9C6A-5888B5CA7E39},436618.161913162,158434918.161116
+9,UK0009,Bristol Urban Area,Nitrogen Dioxide annual mean Limit Value 2023,45,μg m⁻³,Exceeding,Limit Value: 40 μg m⁻³,{8E16E2A0-2A7B-4BB5-80F0-9215027099E9},316778.468058441,139755454.060475
+10,UK0010,Brighton/Worthing/Littlehampton,Nitrogen Dioxide annual mean Limit Value 2023,24,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{BEB049C7-150B-45B3-8F04-997B22D1D7AB},241980.957221294,94090008.3542869
+11,UK0011,Leicester Urban Area,Nitrogen Dioxide annual mean Limit Value 2023,37,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{F681CCCC-0581-4971-B35B-6834E945B95D},215660.864434521,101640509.183915
+12,UK0012,Portsmouth Urban Area,Nitrogen Dioxide annual mean Limit Value 2023,35,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{4EEAB6B4-CC64-4C90-94F4-18B948B2F984},277913.401033606,94411471.888681
+13,UK0013,Teesside Urban Area,Nitrogen Dioxide annual mean Limit Value 2023,35,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{65913B9D-08CA-44E3-8593-BCEC49B4426F},268300.380811507,114303033.398667
+14,UK0014,The Potteries,Nitrogen Dioxide annual mean Limit Value 2023,36,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{87EDCFF9-B8C4-4A1A-B008-F719AB9E4EFE},320022.561398888,96638493.7269874
+15,UK0015,Bournemouth Urban Area,Nitrogen Dioxide annual mean Limit Value 2023,30,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{7660A6A6-7BD1-49E4-AD79-49310795C4A5},251849.342077123,108070011.0059
+16,UK0016,Reading/Wokingham Urban Area,Nitrogen Dioxide annual mean Limit Value 2023,29,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{4895E4FA-8765-44D0-AA24-46C6702703B0},259025.822297437,93153131.1895689
+17,UK0017,Coventry/Bedworth,Nitrogen Dioxide annual mean Limit Value 2023,46,μg m⁻³,Exceeding,Limit Value: 40 μg m⁻³,{13231EA5-F88E-4E6C-AB5D-2AB3D5975943},228377.589941263,75477131.7086832
+18,UK0018,Kingston upon Hull,Nitrogen Dioxide annual mean Limit Value 2023,33,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{A9F411DD-ACC4-498A-A25C-884C8E73BA66},144828.131798232,80386674.5916436
+19,UK0019,Southampton Urban Area,Nitrogen Dioxide annual mean Limit Value 2023,36,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{031680B6-0846-447D-8F48-70E784EF84A6},182667.610100662,72763328.1857934
+20,UK0020,Birkenhead Urban Area,Nitrogen Dioxide annual mean Limit Value 2023,27,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{B43525C8-4A43-4A65-80C8-69544C7705BF},205808.659555806,89081252.6538979
+21,UK0021,Southend Urban Area,Nitrogen Dioxide annual mean Limit Value 2023,30,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{129475EF-D9F0-42CF-AE25-7A6EE60CA561},142991.514576751,66833273.5808221
+22,UK0022,Blackpool Urban Area,Nitrogen Dioxide annual mean Limit Value 2023,22,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{1FB21058-B1D4-4BBD-99BB-9F1A9260EFD9},149487.381148489,65847099.3633596
+23,UK0023,Preston Urban Area,Nitrogen Dioxide annual mean Limit Value 2023,30,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{EFCBBC1F-3AEB-498A-9CAB-1A15474CEDE2},285011.781083192,60444246.6523564
+24,UK0024,Glasgow Urban Area,Nitrogen Dioxide annual mean Limit Value 2023,39,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{CC9F7BF5-8644-4169-A3DA-9862850128E6},408662.287986469,371181137.360747
+25,UK0025,Edinburgh Urban Area,Nitrogen Dioxide annual mean Limit Value 2023,35,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{35CF9351-43A1-4F96-8169-BD84A0F159E1},114175.612590016,120107997.674062
+26,UK0026,Cardiff Urban Area,Nitrogen Dioxide annual mean Limit Value 2023,30,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{4351440A-32E9-4906-B232-6106172022D6},196203.096669671,75550460.8311575
+27,UK0027,Swansea Urban Area,Nitrogen Dioxide annual mean Limit Value 2023,31,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{637E7969-28CE-4566-B13D-102A63938986},365148.94139693,79703705.1851885
+28,UK0028,Belfast Metropolitan Urban Area,Nitrogen Dioxide annual mean Limit Value 2023,36,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{FA258A87-F9DF-444F-8CB0-41FD021EC4DC},277460.90331101,198130523.091352
+29,UK0029,Eastern,Nitrogen Dioxide annual mean Limit Value 2023,39,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{5E93EF65-823B-46B6-8D4D-79FAE3F49C2A},2210565.64479357,19104559394.6904
+30,UK0030,South West,Nitrogen Dioxide annual mean Limit Value 2023,30,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{EE2B05C7-B60C-4C8A-8215-9675996B4E96},2743218.82663225,23566188737.735
+31,UK0031,South East,Nitrogen Dioxide annual mean Limit Value 2023,45,μg m⁻³,Exceeding,Limit Value: 40 μg m⁻³,{0985CBE4-5F5B-47D9-BA57-577DCC88D794},3643594.26603739,18657535924.9388
+32,UK0032,East Midlands,Nitrogen Dioxide annual mean Limit Value 2023,35,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{D896A744-1F13-4798-BCBD-1BA20B1D3AD5},1684612.99306767,15370211448.3816
+33,UK0033,North West & Merseyside,Nitrogen Dioxide annual mean Limit Value 2023,36,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{F90712B0-FE41-4BA2-9C2F-3332828FECC9},3535298.00795829,13189716555.2295
+34,UK0034,Yorkshire & Humberside,Nitrogen Dioxide annual mean Limit Value 2023,34,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{E5A8C535-B2DA-45CB-B7A4-07C6DD3065F4},2858093.01858223,14789540030.5633
+35,UK0035,West Midlands,Nitrogen Dioxide annual mean Limit Value 2023,34,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{2289151E-560C-4D21-8642-D18BA0784E5F},2146678.93148484,12233037054.3492
+36,UK0036,North East,Nitrogen Dioxide annual mean Limit Value 2023,34,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{8E365D16-B828-45A6-BC69-C9E465ED88F9},1568402.30125535,8249987661.31387
+37,UK0037,Central Scotland,Nitrogen Dioxide annual mean Limit Value 2023,35,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{9E4879A8-4096-40B1-9973-5514D47CA338},1834418.10344638,9620284827.79142
+38,UK0038,North East Scotland,Nitrogen Dioxide annual mean Limit Value 2023,36,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{B3EA7892-073B-4143-917B-99CD87888A53},1095339.37047783,18779326879.5982
+39,UK0039,Highland,Nitrogen Dioxide annual mean Limit Value 2023,21,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{B3A08972-9F89-400F-9377-7D1FB8B6F186},9990044.0398994,38234358456.5575
+40,UK0040,Scottish Borders,Nitrogen Dioxide annual mean Limit Value 2023,22,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{D4DCC5F2-A1A0-49B6-BD60-C81D0CBB0A1E},1099238.46967631,11181066200.7782
+41,UK0041,South Wales,Nitrogen Dioxide annual mean Limit Value 2023,34,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{849049F2-CA30-4E23-A544-DE4F29DF6EF7},1954724.79603707,12206279572.1381
+42,UK0042,North Wales,Nitrogen Dioxide annual mean Limit Value 2023,33,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{C133551B-0A55-4912-AF30-0BC7740CCCA4},1126135.47314491,8308163746.65288
+43,UK0043,Northern Ireland,Nitrogen Dioxide annual mean Limit Value 2023,23,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{17E76C3F-4E73-4C22-ABA8-8066BD80491A},1428539.01069978,13931049267.7032

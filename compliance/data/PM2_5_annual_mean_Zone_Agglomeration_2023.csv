@@ -1,0 +1,44 @@
+﻿objectid,unique_code,name,pollutant_metric,maximum_value,unit,compliance_status,compliance_metric,globalid,shape_Length,shape_Area
+1,UK0001,Greater London Urban Area,PM2.5 annual mean stage2 Limit Value 2023,12,μg m⁻³,Compliant,Limit Value: 20 μg m⁻³,{2F0C1046-2904-4FF2-BB7B-C8539C253596},1924215.80187318,1630315288.99501
+2,UK0002,West Midlands Urban Area,PM2.5 annual mean stage2 Limit Value 2023,11,μg m⁻³,Compliant,Limit Value: 20 μg m⁻³,{113E1DE3-EDF0-4F38-AFFD-6D512654B9BD},666327.410350489,599662377.697963
+3,UK0003,Greater Manchester Urban Area,PM2.5 annual mean stage2 Limit Value 2023,10,μg m⁻³,Compliant,Limit Value: 20 μg m⁻³,{631DBFCC-A0D4-4C9C-B4CF-D6252B140862},1311025.04600873,556466825.658004
+4,UK0004,West Yorkshire Urban Area,PM2.5 annual mean stage2 Limit Value 2023,10,μg m⁻³,Compliant,Limit Value: 20 μg m⁻³,{E0A5EC03-50C8-4A23-98EF-CB20D58E7E06},1285916.58838284,369966601.580566
+5,UK0005,Tyneside,PM2.5 annual mean stage2 Limit Value 2023,9,μg m⁻³,Compliant,Limit Value: 20 μg m⁻³,{64670F21-6E14-4160-BCF8-447DFA82C8D0},608272.376771677,210719249.25174
+6,UK0006,Liverpool Urban Area,PM2.5 annual mean stage2 Limit Value 2023,10,μg m⁻³,Compliant,Limit Value: 20 μg m⁻³,{2F9A4DCD-1F1A-4F7E-BFF6-E440BEE8FEF0},305256.908820854,186061360.868969
+7,UK0007,Sheffield Urban Area,PM2.5 annual mean stage2 Limit Value 2023,10,μg m⁻³,Compliant,Limit Value: 20 μg m⁻³,{7DC5D01A-4CEA-4664-928E-0C781E9C907E},419374.816844874,162190675.84324
+8,UK0008,Nottingham Urban Area,PM2.5 annual mean stage2 Limit Value 2023,10,μg m⁻³,Compliant,Limit Value: 20 μg m⁻³,{BFD49CD1-6BE7-442D-A4F6-942865398762},436618.161913162,158434918.161116
+9,UK0009,Bristol Urban Area,PM2.5 annual mean stage2 Limit Value 2023,8,μg m⁻³,Compliant,Limit Value: 20 μg m⁻³,{F558724D-1C63-4076-958D-AFAEE0BB55F2},316778.468058441,139755454.060475
+10,UK0010,Brighton/Worthing/Littlehampton,PM2.5 annual mean stage2 Limit Value 2023,8,μg m⁻³,Compliant,Limit Value: 20 μg m⁻³,{B6256C85-865B-48BA-8275-71D6FFA0581A},241980.957221294,94090008.3542869
+11,UK0011,Leicester Urban Area,PM2.5 annual mean stage2 Limit Value 2023,11,μg m⁻³,Compliant,Limit Value: 20 μg m⁻³,{B1872C72-304B-4776-ABE6-1751B26AB7A8},215660.864434521,101640509.183915
+12,UK0012,Portsmouth Urban Area,PM2.5 annual mean stage2 Limit Value 2023,9,μg m⁻³,Compliant,Limit Value: 20 μg m⁻³,{7F81B162-8921-4AE9-A499-B40270C750F0},277913.401033606,94411471.888681
+13,UK0013,Teesside Urban Area,PM2.5 annual mean stage2 Limit Value 2023,10,μg m⁻³,Compliant,Limit Value: 20 μg m⁻³,{F2343214-091B-4287-AB4F-42B05EA013C0},268300.380811507,114303033.398667
+14,UK0014,The Potteries,PM2.5 annual mean stage2 Limit Value 2023,11,μg m⁻³,Compliant,Limit Value: 20 μg m⁻³,{9D9018F5-6E60-475C-9956-7D0CF86C3A63},320022.561398888,96638493.7269874
+15,UK0015,Bournemouth Urban Area,PM2.5 annual mean stage2 Limit Value 2023,9,μg m⁻³,Compliant,Limit Value: 20 μg m⁻³,{8A87DE3B-E914-464F-96AB-729243652D25},251849.342077123,108070011.0059
+16,UK0016,Reading/Wokingham Urban Area,PM2.5 annual mean stage2 Limit Value 2023,9,μg m⁻³,Compliant,Limit Value: 20 μg m⁻³,{070DB07A-04B6-4E0B-99C7-DD181B449B2D},259025.822297437,93153131.1895689
+17,UK0017,Coventry/Bedworth,PM2.5 annual mean stage2 Limit Value 2023,9,μg m⁻³,Compliant,Limit Value: 20 μg m⁻³,{17EF4CAE-82DB-4BCF-A411-334EB7EA07DC},228377.589941263,75477131.7086832
+18,UK0018,Kingston upon Hull,PM2.5 annual mean stage2 Limit Value 2023,10,μg m⁻³,Compliant,Limit Value: 20 μg m⁻³,{86B27A92-6C85-44E2-AE6B-22D322039C80},144828.131798232,80386674.5916436
+19,UK0019,Southampton Urban Area,PM2.5 annual mean stage2 Limit Value 2023,9,μg m⁻³,Compliant,Limit Value: 20 μg m⁻³,{2B8AD315-9416-4CE6-BB04-BDE261B9FCE4},182667.610100662,72763328.1857934
+20,UK0020,Birkenhead Urban Area,PM2.5 annual mean stage2 Limit Value 2023,8,μg m⁻³,Compliant,Limit Value: 20 μg m⁻³,{91E6EDA3-9323-48AC-A562-D11A2D8785FA},205808.659555806,89081252.6538979
+21,UK0021,Southend Urban Area,PM2.5 annual mean stage2 Limit Value 2023,10,μg m⁻³,Compliant,Limit Value: 20 μg m⁻³,{C1D8E7F2-4845-4A9C-BA2B-0E80805343BC},142991.514576751,66833273.5808221
+22,UK0022,Blackpool Urban Area,PM2.5 annual mean stage2 Limit Value 2023,8,μg m⁻³,Compliant,Limit Value: 20 μg m⁻³,{550999CA-F0B7-41BF-AFF2-9275C246C05A},149487.381148489,65847099.3633596
+23,UK0023,Preston Urban Area,PM2.5 annual mean stage2 Limit Value 2023,8,μg m⁻³,Compliant,Limit Value: 20 μg m⁻³,{FBF0BB76-C66F-4442-A43F-E483FB3D94ED},285011.781083192,60444246.6523564
+24,UK0024,Glasgow Urban Area,PM2.5 annual mean stage2 Limit Value 2023,8,μg m⁻³,Compliant,Limit Value: 20 μg m⁻³,{2DCDD079-CDA6-495F-800F-920113D6484F},408662.287986469,371181137.360747
+25,UK0025,Edinburgh Urban Area,PM2.5 annual mean stage2 Limit Value 2023,7,μg m⁻³,Compliant,Limit Value: 20 μg m⁻³,{20B9F43E-7EFC-466A-BAE9-F20D82668803},114175.612590016,120107997.674062
+26,UK0026,Cardiff Urban Area,PM2.5 annual mean stage2 Limit Value 2023,8,μg m⁻³,Compliant,Limit Value: 20 μg m⁻³,{676134CC-B0B3-4FA5-8C75-D144866749E9},196203.096669671,75550460.8311575
+27,UK0027,Swansea Urban Area,PM2.5 annual mean stage2 Limit Value 2023,8,μg m⁻³,Compliant,Limit Value: 20 μg m⁻³,{C1BF31B1-6E67-4B64-9E57-11C4E6F1D5E0},365148.94139693,79703705.1851885
+28,UK0028,Belfast Metropolitan Urban Area,PM2.5 annual mean stage2 Limit Value 2023,8,μg m⁻³,Compliant,Limit Value: 20 μg m⁻³,{75C552FC-D8A8-494A-964C-A1981B6FF7AF},277460.90331101,198130523.091352
+29,UK0029,Eastern,PM2.5 annual mean stage2 Limit Value 2023,10,μg m⁻³,Compliant,Limit Value: 20 μg m⁻³,{E8B5EFFA-7B3A-4B7C-9222-BBDD305410E7},2210565.64479357,19104559394.6904
+30,UK0030,South West,PM2.5 annual mean stage2 Limit Value 2023,9,μg m⁻³,Compliant,Limit Value: 20 μg m⁻³,{F4FEF331-E98F-472F-8A16-4382C969C84F},2743218.82663225,23566188737.735
+31,UK0031,South East,PM2.5 annual mean stage2 Limit Value 2023,10,μg m⁻³,Compliant,Limit Value: 20 μg m⁻³,{3BCBADAF-8A31-40FA-A276-466D35F0FBA9},3643594.26603739,18657535924.9388
+32,UK0032,East Midlands,PM2.5 annual mean stage2 Limit Value 2023,10,μg m⁻³,Compliant,Limit Value: 20 μg m⁻³,{204CEF37-BBE8-4276-9C0E-5D1D2B8C0DA3},1684612.99306767,15370211448.3816
+33,UK0033,North West & Merseyside,PM2.5 annual mean stage2 Limit Value 2023,9,μg m⁻³,Compliant,Limit Value: 20 μg m⁻³,{FE9F860F-CD66-491D-8464-620C6D5BC0B1},3535298.00795829,13189716555.2295
+34,UK0034,Yorkshire & Humberside,PM2.5 annual mean stage2 Limit Value 2023,10,μg m⁻³,Compliant,Limit Value: 20 μg m⁻³,{9A0D7D1F-6BF7-4AF4-8624-B1DA937ACB80},2858093.01858223,14789540030.5633
+35,UK0035,West Midlands,PM2.5 annual mean stage2 Limit Value 2023,11,μg m⁻³,Compliant,Limit Value: 20 μg m⁻³,{4E7F7E2D-F366-4086-9941-D3424C527DE4},2146678.93148484,12233037054.3492
+36,UK0036,North East,PM2.5 annual mean stage2 Limit Value 2023,9,μg m⁻³,Compliant,Limit Value: 20 μg m⁻³,{F708929E-8CD1-4BC7-BE19-12582D5A5E46},1568402.30125535,8249987661.31387
+37,UK0037,Central Scotland,PM2.5 annual mean stage2 Limit Value 2023,7,μg m⁻³,Compliant,Limit Value: 20 μg m⁻³,{0923F49B-0614-41E0-A123-D24A407E6E8C},1834418.10344638,9620284827.79142
+38,UK0038,North East Scotland,PM2.5 annual mean stage2 Limit Value 2023,7,μg m⁻³,Compliant,Limit Value: 20 μg m⁻³,{F6D8D1C7-F9BD-4146-8E31-ED1340730FE6},1095339.37047783,18779326879.5982
+39,UK0039,Highland,PM2.5 annual mean stage2 Limit Value 2023,5,μg m⁻³,Compliant,Limit Value: 20 μg m⁻³,{BED35D01-6FFB-48F4-B7D7-43DFF8BEFE32},9990044.0398994,38234358456.5575
+40,UK0040,Scottish Borders,PM2.5 annual mean stage2 Limit Value 2023,5,μg m⁻³,Compliant,Limit Value: 20 μg m⁻³,{5DFA2E7B-B7E6-4F58-9586-F7401142E0F2},1099238.46967631,11181066200.7782
+41,UK0041,South Wales,PM2.5 annual mean stage2 Limit Value 2023,9,μg m⁻³,Compliant,Limit Value: 20 μg m⁻³,{61AFCA95-E1F6-4F71-8578-9911DE92890E},1954724.79603707,12206279572.1381
+42,UK0042,North Wales,PM2.5 annual mean stage2 Limit Value 2023,9,μg m⁻³,Compliant,Limit Value: 20 μg m⁻³,{9B0F8E49-C634-4EA8-A95A-DE4171A4BE50},1126135.47314491,8308163746.65288
+43,UK0043,Northern Ireland,PM2.5 annual mean stage2 Limit Value 2023,8,μg m⁻³,Compliant,Limit Value: 20 μg m⁻³,{D48F4B2A-EC48-49B1-9B1D-B299E8DF5C11},1428539.01069978,13931049267.7032

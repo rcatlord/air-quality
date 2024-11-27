@@ -1,0 +1,44 @@
+﻿objectid,unique_code,name,pollutant_metric,maximum_value,unit,compliance_status,compliance_metric,globalid,shape_Length,shape_Area
+1,UK0001,Greater London Urban Area,PM10 annual mean Limit Value 2023,28,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{8980F68A-C1EB-49CB-B982-25A7A72646E5},1924215.80187318,1630315288.99501
+2,UK0002,West Midlands Urban Area,PM10 annual mean Limit Value 2023,20,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{EB12A936-8C3E-4C4D-903F-49FA16B23E90},666327.410350489,599662377.697963
+3,UK0003,Greater Manchester Urban Area,PM10 annual mean Limit Value 2023,19,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{0D567008-E630-453A-8614-10036270BB34},1311025.04600873,556466825.658004
+4,UK0004,West Yorkshire Urban Area,PM10 annual mean Limit Value 2023,19,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{2E4D8649-F8C2-4A63-B866-DBC303AA2DA0},1285916.58838284,369966601.580566
+5,UK0005,Tyneside,PM10 annual mean Limit Value 2023,19,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{7B2CD67B-520F-457E-B142-80A641F84B64},608272.376771677,210719249.25174
+6,UK0006,Liverpool Urban Area,PM10 annual mean Limit Value 2023,18,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{FB684BC8-0D55-4C96-8087-C7C85457BF42},305256.908820854,186061360.868969
+7,UK0007,Sheffield Urban Area,PM10 annual mean Limit Value 2023,19,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{74FE2652-671C-4145-8F19-42899024F844},419374.816844874,162190675.84324
+8,UK0008,Nottingham Urban Area,PM10 annual mean Limit Value 2023,20,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{36D54EFB-B5E6-49AB-88B0-7E1024C56436},436618.161913162,158434918.161116
+9,UK0009,Bristol Urban Area,PM10 annual mean Limit Value 2023,18,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{986F8466-6B6D-4818-BD4B-6309CEF1F5D8},316778.468058441,139755454.060475
+10,UK0010,Brighton/Worthing/Littlehampton,PM10 annual mean Limit Value 2023,15,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{6DDE5AD1-C9EF-4164-9FA0-CA08F0632053},241980.957221294,94090008.3542869
+11,UK0011,Leicester Urban Area,PM10 annual mean Limit Value 2023,19,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{219A852D-77DF-4E3B-84F1-87325E1AC3AE},215660.864434521,101640509.183915
+12,UK0012,Portsmouth Urban Area,PM10 annual mean Limit Value 2023,19,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{EA32D2AA-ED7D-453A-A709-490D6330FEB4},277913.401033606,94411471.888681
+13,UK0013,Teesside Urban Area,PM10 annual mean Limit Value 2023,19,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{86CFB664-20B1-4550-B975-37743A33EE44},268300.380811507,114303033.398667
+14,UK0014,The Potteries,PM10 annual mean Limit Value 2023,20,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{D139AA98-124C-40BB-A48E-32EE3EF3D3D8},320022.561398888,96638493.7269874
+15,UK0015,Bournemouth Urban Area,PM10 annual mean Limit Value 2023,16,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{CCCC6CD1-4EDA-42C4-848D-F4C4B5749DF6},251849.342077123,108070011.0059
+16,UK0016,Reading/Wokingham Urban Area,PM10 annual mean Limit Value 2023,18,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{14C80C8D-021A-4C34-83EE-972A86A993D1},259025.822297437,93153131.1895689
+17,UK0017,Coventry/Bedworth,PM10 annual mean Limit Value 2023,17,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{826AF23B-5BFD-483F-8C53-8657DA0780B4},228377.589941263,75477131.7086832
+18,UK0018,Kingston upon Hull,PM10 annual mean Limit Value 2023,19,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{1C92FC9B-3F51-4219-BD8D-DD79E4E29A18},144828.131798232,80386674.5916436
+19,UK0019,Southampton Urban Area,PM10 annual mean Limit Value 2023,18,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{75993A91-F7E1-4386-8DD2-7E042E61CA3F},182667.610100662,72763328.1857934
+20,UK0020,Birkenhead Urban Area,PM10 annual mean Limit Value 2023,14,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{4F184C54-1BB5-40E0-93A0-3E193E87301E},205808.659555806,89081252.6538979
+21,UK0021,Southend Urban Area,PM10 annual mean Limit Value 2023,18,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{44556E37-27A6-4F45-A3BC-1173F690CEAE},142991.514576751,66833273.5808221
+22,UK0022,Blackpool Urban Area,PM10 annual mean Limit Value 2023,13,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{A753DD04-641F-4904-8FA8-2195ACE9878A},149487.381148489,65847099.3633596
+23,UK0023,Preston Urban Area,PM10 annual mean Limit Value 2023,16,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{A271A290-1C9F-449D-8F19-67D4699A33F5},285011.781083192,60444246.6523564
+24,UK0024,Glasgow Urban Area,PM10 annual mean Limit Value 2023,16,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{B9F44B31-7544-47A3-A9EC-C447035124CB},408662.287986469,371181137.360747
+25,UK0025,Edinburgh Urban Area,PM10 annual mean Limit Value 2023,16,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{59EE571D-9232-45E8-974B-D35DD5A42780},114175.612590016,120107997.674062
+26,UK0026,Cardiff Urban Area,PM10 annual mean Limit Value 2023,16,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{2E29F3FD-DDF5-44BF-828F-63F7105EEA44},196203.096669671,75550460.8311575
+27,UK0027,Swansea Urban Area,PM10 annual mean Limit Value 2023,27,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{477D905F-279C-4DD0-818E-0E044EF1E558},365148.94139693,79703705.1851885
+28,UK0028,Belfast Metropolitan Urban Area,PM10 annual mean Limit Value 2023,17,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{AD46BF67-0CF7-4447-8447-17E474D358BA},277460.90331101,198130523.091352
+29,UK0029,Eastern,PM10 annual mean Limit Value 2023,20,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{BD40BF23-4FE0-43FD-8A6C-42E0B8099488},2210565.64479357,19104559394.6904
+30,UK0030,South West,PM10 annual mean Limit Value 2023,18,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{3BF54150-7E2D-4CC5-A4CB-870C0D481F93},2743218.82663225,23566188737.735
+31,UK0031,South East,PM10 annual mean Limit Value 2023,19,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{E1DA045D-C219-4C42-B737-2232DCBE9504},3643594.26603739,18657535924.9388
+32,UK0032,East Midlands,PM10 annual mean Limit Value 2023,21,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{9EB555A6-AEF3-49C8-BC65-D57464FA4E4E},1684612.99306767,15370211448.3816
+33,UK0033,North West & Merseyside,PM10 annual mean Limit Value 2023,18,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{81BD714B-82EC-4383-A94A-B05B85B1DE2F},3535298.00795829,13189716555.2295
+34,UK0034,Yorkshire & Humberside,PM10 annual mean Limit Value 2023,19,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{A8E9A290-D126-48CF-8301-CC31AFB30BEB},2858093.01858223,14789540030.5633
+35,UK0035,West Midlands,PM10 annual mean Limit Value 2023,20,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{FDAD1F6F-6531-42C6-92BB-E45297E98308},2146678.93148484,12233037054.3492
+36,UK0036,North East,PM10 annual mean Limit Value 2023,19,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{F3059AE7-B0C6-49A2-A3C0-D9EA47D6D42D},1568402.30125535,8249987661.31387
+37,UK0037,Central Scotland,PM10 annual mean Limit Value 2023,16,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{A383CD80-CE9E-4E2E-B350-0AF19BE8D104},1834418.10344638,9620284827.79142
+38,UK0038,North East Scotland,PM10 annual mean Limit Value 2023,13,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{EA1E66C9-40AC-4724-9E12-33F874A2C275},1095339.37047783,18779326879.5982
+39,UK0039,Highland,PM10 annual mean Limit Value 2023,10,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{4D7DA080-64D6-4C7E-AD8C-328DDBB34BB2},9990044.0398994,38234358456.5575
+40,UK0040,Scottish Borders,PM10 annual mean Limit Value 2023,11,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{2CAA3406-0231-4831-8421-49C1A4B6F02B},1099238.46967631,11181066200.7782
+41,UK0041,South Wales,PM10 annual mean Limit Value 2023,19,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{174B7D3D-C35A-4DFC-B20D-977B65A9876C},1954724.79603707,12206279572.1381
+42,UK0042,North Wales,PM10 annual mean Limit Value 2023,17,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{D0AC1FA2-5907-47EC-8801-8A26D991EDDF},1126135.47314491,8308163746.65288
+43,UK0043,Northern Ireland,PM10 annual mean Limit Value 2023,14,μg m⁻³,Compliant,Limit Value: 40 μg m⁻³,{1BE33B7A-575B-451D-8047-C77DABE97BDF},1428539.01069978,13931049267.7032

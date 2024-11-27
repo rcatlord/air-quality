@@ -1,0 +1,44 @@
+﻿objectid,unique_code,name,pollutant_metric,maximum_value,unit,compliance_status,compliance_metric,globalid,shape_Length,shape_Area
+1,UK0001,Greater London Urban Area,Nitrogen Dioxide hourly mean Limit Value 2023,0,Hours,Compliant,Limit Value: 18 hours over 200 μg m⁻³,{B490BA87-D798-4AF4-B931-6A3E6AC9263F},1924215.80187318,1630315288.99501
+2,UK0002,West Midlands Urban Area,Nitrogen Dioxide hourly mean Limit Value 2023,0,Hours,Compliant,Limit Value: 18 hours over 200 μg m⁻³,{51DEAF55-69E1-4228-9241-5346D2B2D2B3},666327.410350489,599662377.697963
+3,UK0003,Greater Manchester Urban Area,Nitrogen Dioxide hourly mean Limit Value 2023,0,Hours,Compliant,Limit Value: 18 hours over 200 μg m⁻³,{6D75EF1F-A739-4C59-A6D7-99964AA38A63},1311025.04600873,556466825.658004
+4,UK0004,West Yorkshire Urban Area,Nitrogen Dioxide hourly mean Limit Value 2023,0,Hours,Compliant,Limit Value: 18 hours over 200 μg m⁻³,{539D2CEB-A0AB-427A-B183-ECFA6F192BF8},1285916.58838284,369966601.580566
+5,UK0005,Tyneside,Nitrogen Dioxide hourly mean Limit Value 2023,0,Hours,Compliant,Limit Value: 18 hours over 200 μg m⁻³,{A9EFFF1D-72CC-4E99-B32A-82D7B923A7D0},608272.376771677,210719249.25174
+6,UK0006,Liverpool Urban Area,Nitrogen Dioxide hourly mean Limit Value 2023,0,Hours,Compliant,Limit Value: 18 hours over 200 μg m⁻³,{86252D61-AE53-4B66-9C11-4E1F91B4E36B},305256.908820854,186061360.868969
+7,UK0007,Sheffield Urban Area,Nitrogen Dioxide hourly mean Limit Value 2023,0,Hours,Compliant,Limit Value: 18 hours over 200 μg m⁻³,{D6FE39EB-39A9-4317-ABCA-E01DC27FCBAB},419374.816844874,162190675.84324
+8,UK0008,Nottingham Urban Area,Nitrogen Dioxide hourly mean Limit Value 2023,0,Hours,Compliant,Limit Value: 18 hours over 200 μg m⁻³,{511782CC-73BB-4E01-8FBC-D5CA84233A0A},436618.161913162,158434918.161116
+9,UK0009,Bristol Urban Area,Nitrogen Dioxide hourly mean Limit Value 2023,0,Hours,Compliant,Limit Value: 18 hours over 200 μg m⁻³,{FF7AEAFF-5DDD-4820-91D6-289CA25DC099},316778.468058441,139755454.060475
+10,UK0010,Brighton/Worthing/Littlehampton,Nitrogen Dioxide hourly mean Limit Value 2023,0,Hours,Compliant,Limit Value: 18 hours over 200 μg m⁻³,{F26C26E1-DD53-44C6-8E4A-38F80FDDF621},241980.957221294,94090008.3542869
+11,UK0011,Leicester Urban Area,Nitrogen Dioxide hourly mean Limit Value 2023,0,Hours,Compliant,Limit Value: 18 hours over 200 μg m⁻³,{8C7A7D8D-3F86-4FC2-A069-CE3903777ACE},215660.864434521,101640509.183915
+12,UK0012,Portsmouth Urban Area,Nitrogen Dioxide hourly mean Limit Value 2023,0,Hours,Compliant,Limit Value: 18 hours over 200 μg m⁻³,{EA421B5E-E353-4F03-BA84-558A0494E9C5},277913.401033606,94411471.888681
+13,UK0013,Teesside Urban Area,Nitrogen Dioxide hourly mean Limit Value 2023,0,Hours,Compliant,Limit Value: 18 hours over 200 μg m⁻³,{C035FE97-51B2-44A4-8131-12B842734586},268300.380811507,114303033.398667
+14,UK0014,The Potteries,Nitrogen Dioxide hourly mean Limit Value 2023,0,Hours,Compliant,Limit Value: 18 hours over 200 μg m⁻³,{45458AFD-8BC4-4039-8329-B8ACA140D22C},320022.561398888,96638493.7269874
+15,UK0015,Bournemouth Urban Area,Nitrogen Dioxide hourly mean Limit Value 2023,0,Hours,Compliant,Limit Value: 18 hours over 200 μg m⁻³,{CCFFC336-454D-47A7-8BDA-6518CC6F36A4},251849.342077123,108070011.0059
+16,UK0016,Reading/Wokingham Urban Area,Nitrogen Dioxide hourly mean Limit Value 2023,0,Hours,Compliant,Limit Value: 18 hours over 200 μg m⁻³,{88629E4C-0A32-4E39-82F8-1501E9AED8D1},259025.822297437,93153131.1895689
+17,UK0017,Coventry/Bedworth,Nitrogen Dioxide hourly mean Limit Value 2023,0,Hours,Compliant,Limit Value: 18 hours over 200 μg m⁻³,{1222F134-B4D3-4ADF-A166-BEF7C7AB9BDF},228377.589941263,75477131.7086832
+18,UK0018,Kingston upon Hull,Nitrogen Dioxide hourly mean Limit Value 2023,0,Hours,Compliant,Limit Value: 18 hours over 200 μg m⁻³,{D16C7206-3C8D-4284-935B-DA0B21E7594C},144828.131798232,80386674.5916436
+19,UK0019,Southampton Urban Area,Nitrogen Dioxide hourly mean Limit Value 2023,0,Hours,Compliant,Limit Value: 18 hours over 200 μg m⁻³,{ABC8BD26-59F1-4836-8C81-42945F4C1A7C},182667.610100662,72763328.1857934
+20,UK0020,Birkenhead Urban Area,Nitrogen Dioxide hourly mean Limit Value 2023,0,Hours,Compliant,Limit Value: 18 hours over 200 μg m⁻³,{2615B81F-FFD0-4C72-873D-F0FD3DFF3E66},205808.659555806,89081252.6538979
+21,UK0021,Southend Urban Area,Nitrogen Dioxide hourly mean Limit Value 2023,0,Hours,Compliant,Limit Value: 18 hours over 200 μg m⁻³,{B3D6CF6F-B7DC-4723-91A7-9EB54587BA5F},142991.514576751,66833273.5808221
+22,UK0022,Blackpool Urban Area,Nitrogen Dioxide hourly mean Limit Value 2023,0,Hours,Compliant,Limit Value: 18 hours over 200 μg m⁻³,{0D6CF1BC-6293-4A9A-B962-1C636F3F1B27},149487.381148489,65847099.3633596
+23,UK0023,Preston Urban Area,Nitrogen Dioxide hourly mean Limit Value 2023,0,Hours,Compliant,Limit Value: 18 hours over 200 μg m⁻³,{740853E8-820E-45F2-A2C6-F466066388A5},285011.781083192,60444246.6523564
+24,UK0024,Glasgow Urban Area,Nitrogen Dioxide hourly mean Limit Value 2023,0,Hours,Compliant,Limit Value: 18 hours over 200 μg m⁻³,{E935832A-FFFE-46DF-AED9-6B76A40804B7},408662.287986469,371181137.360747
+25,UK0025,Edinburgh Urban Area,Nitrogen Dioxide hourly mean Limit Value 2023,0,Hours,Compliant,Limit Value: 18 hours over 200 μg m⁻³,{A21592DB-F649-4C5A-A369-011455CFC90B},114175.612590016,120107997.674062
+26,UK0026,Cardiff Urban Area,Nitrogen Dioxide hourly mean Limit Value 2023,0,Hours,Compliant,Limit Value: 18 hours over 200 μg m⁻³,{1D51312E-11E7-42CA-953F-651C2C6ED94E},196203.096669671,75550460.8311575
+27,UK0027,Swansea Urban Area,Nitrogen Dioxide hourly mean Limit Value 2023,0,Hours,Compliant,Limit Value: 18 hours over 200 μg m⁻³,{F7A98712-9690-4911-81F8-B6EF6DE29BB5},365148.94139693,79703705.1851885
+28,UK0028,Belfast Metropolitan Urban Area,Nitrogen Dioxide hourly mean Limit Value 2023,0,Hours,Compliant,Limit Value: 18 hours over 200 μg m⁻³,{B7CA1360-B76C-45FF-813B-E314F6A750C0},277460.90331101,198130523.091352
+29,UK0029,Eastern,Nitrogen Dioxide hourly mean Limit Value 2023,0,Hours,Compliant,Limit Value: 18 hours over 200 μg m⁻³,{8827F69D-EFC2-48A4-80BC-4026CAEE2536},2210565.64479357,19104559394.6904
+30,UK0030,South West,Nitrogen Dioxide hourly mean Limit Value 2023,0,Hours,Compliant,Limit Value: 18 hours over 200 μg m⁻³,{858FA534-5029-40C8-AEB4-F3644A67EAF2},2743218.82663225,23566188737.735
+31,UK0031,South East,Nitrogen Dioxide hourly mean Limit Value 2023,0,Hours,Compliant,Limit Value: 18 hours over 200 μg m⁻³,{E4781452-D1A5-4559-A474-0D1F2E4682A9},3643594.26603739,18657535924.9388
+32,UK0032,East Midlands,Nitrogen Dioxide hourly mean Limit Value 2023,0,Hours,Compliant,Limit Value: 18 hours over 200 μg m⁻³,{293B4393-E947-4CC7-9A4E-8D2AD277D3B0},1684612.99306767,15370211448.3816
+33,UK0033,North West & Merseyside,Nitrogen Dioxide hourly mean Limit Value 2023,0,Hours,Compliant,Limit Value: 18 hours over 200 μg m⁻³,{890F94F6-DDC3-41F7-98D2-66AD2CD5308D},3535298.00795829,13189716555.2295
+34,UK0034,Yorkshire & Humberside,Nitrogen Dioxide hourly mean Limit Value 2023,0,Hours,Compliant,Limit Value: 18 hours over 200 μg m⁻³,{314A880B-4F6E-42B2-8D85-9A4E8F564FFB},2858093.01858223,14789540030.5633
+35,UK0035,West Midlands,Nitrogen Dioxide hourly mean Limit Value 2023,0,Hours,Compliant,Limit Value: 18 hours over 200 μg m⁻³,{E2698733-FA1B-45C7-8485-7730E63E4955},2146678.93148484,12233037054.3492
+36,UK0036,North East,Nitrogen Dioxide hourly mean Limit Value 2023,0,Hours,Compliant,Limit Value: 18 hours over 200 μg m⁻³,{2F8A09D3-41B9-4D6D-A361-DAA5604EBA1E},1568402.30125535,8249987661.31387
+37,UK0037,Central Scotland,Nitrogen Dioxide hourly mean Limit Value 2023,0,Hours,Compliant,Limit Value: 18 hours over 200 μg m⁻³,{122AA04A-07BC-4649-83C3-1249263BE8E8},1834418.10344638,9620284827.79142
+38,UK0038,North East Scotland,Nitrogen Dioxide hourly mean Limit Value 2023,0,Hours,Compliant,Limit Value: 18 hours over 200 μg m⁻³,{EAEA5804-AA96-4B02-BD28-7DB52B8FB27B},1095339.37047783,18779326879.5982
+39,UK0039,Highland,Nitrogen Dioxide hourly mean Limit Value 2023,0,Hours,Compliant,Limit Value: 18 hours over 200 μg m⁻³,{51B9745A-13C2-41E2-AD22-6B7CE94B8BE0},9990044.0398994,38234358456.5575
+40,UK0040,Scottish Borders,Nitrogen Dioxide hourly mean Limit Value 2023,1,Hours,Compliant,Limit Value: 18 hours over 200 μg m⁻³,{61FC6594-510E-4D58-8B24-39892FB6449F},1099238.46967631,11181066200.7782
+41,UK0041,South Wales,Nitrogen Dioxide hourly mean Limit Value 2023,0,Hours,Compliant,Limit Value: 18 hours over 200 μg m⁻³,{239460B5-B340-4BF6-9F5F-76F0976158BC},1954724.79603707,12206279572.1381
+42,UK0042,North Wales,Nitrogen Dioxide hourly mean Limit Value 2023,0,Hours,Compliant,Limit Value: 18 hours over 200 μg m⁻³,{917E3BC2-8491-4353-8F52-E328BF610CA0},1126135.47314491,8308163746.65288
+43,UK0043,Northern Ireland,Nitrogen Dioxide hourly mean Limit Value 2023,0,Hours,Compliant,Limit Value: 18 hours over 200 μg m⁻³,{D5AFFAE9-F732-4DD1-B672-0ECD03C79EBF},1428539.01069978,13931049267.7032

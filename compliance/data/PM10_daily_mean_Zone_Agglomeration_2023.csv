@@ -1,0 +1,44 @@
+﻿objectid,unique_code,name,pollutant_metric,maximum_value,unit,compliance_status,compliance_metric,globalid,shape_Length,shape_Area
+1,UK0001,Greater London Urban Area,PM10 daily mean Limit Value 2023,25,Days,Compliant,Limit Value: 35 days over 50 μg m⁻³,{B59A5852-BC5F-4D6A-9C0F-88011DA9595E},1924215.80187318,1630315288.99501
+2,UK0002,West Midlands Urban Area,PM10 daily mean Limit Value 2023,3,Days,Compliant,Limit Value: 35 days over 50 μg m⁻³,{C681218C-94EE-4318-AA09-EE1632FC1F3D},666327.410350489,599662377.697963
+3,UK0003,Greater Manchester Urban Area,PM10 daily mean Limit Value 2023,2,Days,Compliant,Limit Value: 35 days over 50 μg m⁻³,{5F60028C-ADEA-48B4-943B-251897C6395F},1311025.04600873,556466825.658004
+4,UK0004,West Yorkshire Urban Area,PM10 daily mean Limit Value 2023,2,Days,Compliant,Limit Value: 35 days over 50 μg m⁻³,{7CF9B515-62C3-460B-8890-A99EEE605851},1285916.58838284,369966601.580566
+5,UK0005,Tyneside,PM10 daily mean Limit Value 2023,1,Days,Compliant,Limit Value: 35 days over 50 μg m⁻³,{5B083ED3-59E2-49FC-8975-2E85E1AEB149},608272.376771677,210719249.25174
+6,UK0006,Liverpool Urban Area,PM10 daily mean Limit Value 2023,4,Days,Compliant,Limit Value: 35 days over 50 μg m⁻³,{3830D44F-A6FB-4912-9A29-A53446E75A7A},305256.908820854,186061360.868969
+7,UK0007,Sheffield Urban Area,PM10 daily mean Limit Value 2023,2,Days,Compliant,Limit Value: 35 days over 50 μg m⁻³,{9872B4DD-9C7C-4575-BA16-2F967C338FEC},419374.816844874,162190675.84324
+8,UK0008,Nottingham Urban Area,PM10 daily mean Limit Value 2023,3,Days,Compliant,Limit Value: 35 days over 50 μg m⁻³,{F0ECA4C3-ABC9-43A0-B5AB-0CDA7C60EE5B},436618.161913162,158434918.161116
+9,UK0009,Bristol Urban Area,PM10 daily mean Limit Value 2023,2,Days,Compliant,Limit Value: 35 days over 50 μg m⁻³,{EBCB5161-4033-4E0C-B26C-15F220EACC91},316778.468058441,139755454.060475
+10,UK0010,Brighton/Worthing/Littlehampton,PM10 daily mean Limit Value 2023,0,Days,Compliant,Limit Value: 35 days over 50 μg m⁻³,{26335465-8A30-4BAE-B8C1-55F30C52133D},241980.957221294,94090008.3542869
+11,UK0011,Leicester Urban Area,PM10 daily mean Limit Value 2023,2,Days,Compliant,Limit Value: 35 days over 50 μg m⁻³,{2965D04B-65D0-44FF-B7CD-835F8323461A},215660.864434521,101640509.183915
+12,UK0012,Portsmouth Urban Area,PM10 daily mean Limit Value 2023,1,Days,Compliant,Limit Value: 35 days over 50 μg m⁻³,{EDF39565-57B9-4D91-9B71-66C81E6B5EA9},277913.401033606,94411471.888681
+13,UK0013,Teesside Urban Area,PM10 daily mean Limit Value 2023,2,Days,Compliant,Limit Value: 35 days over 50 μg m⁻³,{30AA780E-7A2E-4671-BDCF-04F6F3991C19},268300.380811507,114303033.398667
+14,UK0014,The Potteries,PM10 daily mean Limit Value 2023,4,Days,Compliant,Limit Value: 35 days over 50 μg m⁻³,{80813CB2-9002-4BB4-8EA1-34EEAF2032B2},320022.561398888,96638493.7269874
+15,UK0015,Bournemouth Urban Area,PM10 daily mean Limit Value 2023,0,Days,Compliant,Limit Value: 35 days over 50 μg m⁻³,{BD522502-3E50-441C-B03F-54C065C8BCEE},251849.342077123,108070011.0059
+16,UK0016,Reading/Wokingham Urban Area,PM10 daily mean Limit Value 2023,2,Days,Compliant,Limit Value: 35 days over 50 μg m⁻³,{0344830F-E0B7-4C8D-A233-10D96705F358},259025.822297437,93153131.1895689
+17,UK0017,Coventry/Bedworth,PM10 daily mean Limit Value 2023,0,Days,Compliant,Limit Value: 35 days over 50 μg m⁻³,{7C2236FB-5754-4CD9-B608-71798192FB7F},228377.589941263,75477131.7086832
+18,UK0018,Kingston upon Hull,PM10 daily mean Limit Value 2023,2,Days,Compliant,Limit Value: 35 days over 50 μg m⁻³,{FC78BEBA-A120-4ED6-8BCA-3C76E8F49C88},144828.131798232,80386674.5916436
+19,UK0019,Southampton Urban Area,PM10 daily mean Limit Value 2023,4,Days,Compliant,Limit Value: 35 days over 50 μg m⁻³,{21D6FB69-DC71-4FFC-A0FA-97B016FEF6E7},182667.610100662,72763328.1857934
+20,UK0020,Birkenhead Urban Area,PM10 daily mean Limit Value 2023,0,Days,Compliant,Limit Value: 35 days over 50 μg m⁻³,{5B04FD08-EF57-476A-8940-19AE34221C90},205808.659555806,89081252.6538979
+21,UK0021,Southend Urban Area,PM10 daily mean Limit Value 2023,1,Days,Compliant,Limit Value: 35 days over 50 μg m⁻³,{CDCEC5A9-26C7-4B8D-8A7A-A52C63C66F75},142991.514576751,66833273.5808221
+22,UK0022,Blackpool Urban Area,PM10 daily mean Limit Value 2023,0,Days,Compliant,Limit Value: 35 days over 50 μg m⁻³,{B4A8C1F3-ADE8-4C7F-BA83-8DD77329998F},149487.381148489,65847099.3633596
+23,UK0023,Preston Urban Area,PM10 daily mean Limit Value 2023,0,Days,Compliant,Limit Value: 35 days over 50 μg m⁻³,{EB286B05-8153-4C12-857E-EDF13A1C7266},285011.781083192,60444246.6523564
+24,UK0024,Glasgow Urban Area,PM10 daily mean Limit Value 2023,0,Days,Compliant,Limit Value: 35 days over 50 μg m⁻³,{78374463-34BF-4222-9079-FD1B4AB79E99},408662.287986469,371181137.360747
+25,UK0025,Edinburgh Urban Area,PM10 daily mean Limit Value 2023,0,Days,Compliant,Limit Value: 35 days over 50 μg m⁻³,{8E18BE44-F906-40A2-AB9E-9247DCDD5763},114175.612590016,120107997.674062
+26,UK0026,Cardiff Urban Area,PM10 daily mean Limit Value 2023,0,Days,Compliant,Limit Value: 35 days over 50 μg m⁻³,{3D65A830-6C1B-4D42-8203-3F773BDCCDB9},196203.096669671,75550460.8311575
+27,UK0027,Swansea Urban Area,PM10 daily mean Limit Value 2023,31,Days,Compliant,Limit Value: 35 days over 50 μg m⁻³,{3328B49B-FBDB-4931-8682-35F8BC491A06},365148.94139693,79703705.1851885
+28,UK0028,Belfast Metropolitan Urban Area,PM10 daily mean Limit Value 2023,1,Days,Compliant,Limit Value: 35 days over 50 μg m⁻³,{448E461B-FEF6-4194-8F38-38A77F8FCD73},277460.90331101,198130523.091352
+29,UK0029,Eastern,PM10 daily mean Limit Value 2023,3,Days,Compliant,Limit Value: 35 days over 50 μg m⁻³,{8D105DDA-FA70-4A4F-9C6D-A4E977856639},2210565.64479357,19104559394.6904
+30,UK0030,South West,PM10 daily mean Limit Value 2023,1,Days,Compliant,Limit Value: 35 days over 50 μg m⁻³,{1A9C07FE-765C-4665-B32D-54B772158853},2743218.82663225,23566188737.735
+31,UK0031,South East,PM10 daily mean Limit Value 2023,5,Days,Compliant,Limit Value: 35 days over 50 μg m⁻³,{695508EA-F9FC-4998-B2A9-CC17D01C5D9B},3643594.26603739,18657535924.9388
+32,UK0032,East Midlands,PM10 daily mean Limit Value 2023,5,Days,Compliant,Limit Value: 35 days over 50 μg m⁻³,{6CCEA2A9-3B53-4AB4-876F-A062410613CB},1684612.99306767,15370211448.3816
+33,UK0033,North West & Merseyside,PM10 daily mean Limit Value 2023,1,Days,Compliant,Limit Value: 35 days over 50 μg m⁻³,{A53EC8FE-06C4-4402-8664-35AFA5BFE7EF},3535298.00795829,13189716555.2295
+34,UK0034,Yorkshire & Humberside,PM10 daily mean Limit Value 2023,3,Days,Compliant,Limit Value: 35 days over 50 μg m⁻³,{BBD307F3-9C1F-4B53-9EC7-3AA7F7D4DFD0},2858093.01858223,14789540030.5633
+35,UK0035,West Midlands,PM10 daily mean Limit Value 2023,3,Days,Compliant,Limit Value: 35 days over 50 μg m⁻³,{AA9C2830-AB5B-4DAB-9293-F550D22F9370},2146678.93148484,12233037054.3492
+36,UK0036,North East,PM10 daily mean Limit Value 2023,3,Days,Compliant,Limit Value: 35 days over 50 μg m⁻³,{EB4847D7-DB4F-44AC-A93E-403967387FC4},1568402.30125535,8249987661.31387
+37,UK0037,Central Scotland,PM10 daily mean Limit Value 2023,0,Days,Compliant,Limit Value: 35 days over 50 μg m⁻³,{B027E2F4-7C51-4178-A30E-703A713CA51A},1834418.10344638,9620284827.79142
+38,UK0038,North East Scotland,PM10 daily mean Limit Value 2023,1,Days,Compliant,Limit Value: 35 days over 50 μg m⁻³,{DCCCA1D4-06BA-4AEE-9F0A-B32D0369E446},1095339.37047783,18779326879.5982
+39,UK0039,Highland,PM10 daily mean Limit Value 2023,0,Days,Compliant,Limit Value: 35 days over 50 μg m⁻³,{0A5316B2-8DEC-44EB-B47E-82F6D61E5D90},9990044.0398994,38234358456.5575
+40,UK0040,Scottish Borders,PM10 daily mean Limit Value 2023,0,Days,Compliant,Limit Value: 35 days over 50 μg m⁻³,{5181F9DF-B653-4C01-86DD-687BABA6D511},1099238.46967631,11181066200.7782
+41,UK0041,South Wales,PM10 daily mean Limit Value 2023,2,Days,Compliant,Limit Value: 35 days over 50 μg m⁻³,{91552D22-9B5F-450F-9E1B-78FB9CE68636},1954724.79603707,12206279572.1381
+42,UK0042,North Wales,PM10 daily mean Limit Value 2023,0,Days,Compliant,Limit Value: 35 days over 50 μg m⁻³,{41AEE1AD-C7B4-46B8-B7EC-DC2387394A58},1126135.47314491,8308163746.65288
+43,UK0043,Northern Ireland,PM10 daily mean Limit Value 2023,0,Days,Compliant,Limit Value: 35 days over 50 μg m⁻³,{488C0A13-33B8-4B65-A84C-E7E2C2F8F8B2},1428539.01069978,13931049267.7032
